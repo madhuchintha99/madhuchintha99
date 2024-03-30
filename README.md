@@ -8,7 +8,7 @@
 
 ### 🙋‍♂️ About Me
 
-Welcome to my coding journey! I'm Veeramanikandan, a Full Stack Developer from TamilNadu. I am passionate about crafting clean and efficient code to create dynamic web applications.
+Welcome to my coding journey! I'm MadhuChintha, a Full Stack Developer from Telangana. I am passionate about crafting clean and efficient code to create dynamic web applications.
 
 - 🌱 Currently diving deep into MongoDB, Express.js, React.js, Node.js, and JavaScript.
 - 👯 I'm actively seeking opportunities to collaborate on MERN stack projects.
